@@ -12,5 +12,7 @@ public class BarcodeMobileActivity extends Activity {
         super.onCreate(savedInstanceState);
         Intent intent=new Intent(LoginActivity.class.getName());
 		startActivity(intent);
+		
+		
     }
 }
