@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">成品条码集成系统</string>
+    <string name="band_login">成品条码集成系统-登录</string>
+    <string name="band_main_menu">订单管理-主菜单</string>
+    <string name="progess_msg">与服务器通讯中……</string>
+    
+    <string name="setting_menu">系统设置</string>
+    <string name="exit_menu">退出</string>
+    <string name="about_menu">关于</string>
+    
+    <string name="nothing">[暂无事项]</string>
+    
+    <string name="function_code">functionCode</string>
+
+</resources>

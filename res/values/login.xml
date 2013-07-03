@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login_error_msg">无效用户名或密码</string>
+    <string name="login_warn_input_user">请输入用户名</string>
+    <string name="user_name">账号</string>
+    <string name="password">密码</string>
+</resources>

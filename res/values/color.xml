@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="MAIN_BG">#f5f5f5</color>
+    <color name="MAIN_LIGHT_BG">#0C7EC7</color>
+    <color name="MAIN_BACK_BG">#0664A1</color>
+    
+    <color name="BTN_LIGHT_BG">#fefefe</color>
+    <color name="BTN_BACK_BG">#d7d7d7</color>
+    <color name="BORDER">#b1b1b1</color>
+    <color name="BULE_BORDER">#003a6c</color>
+    <color name="PAGE_BTN_PRESS_BG">#faa755</color>
+    
+    <color name="WHITE">#ffffff</color>
+    <color name="BLACK">#000000</color>
+    
+    <color name="TABLE_BG">#FAFAFA</color>
+    <color name="TABLE_BG_COLOUR">#f6f5e0</color>
+    <color name="TABLE_LINE">#CDCDCD</color>
+    
+    <color name="TEXT_ORANGE">#f47920</color>
+    <color name="TEXT_BLUE">#076eb0</color>
+    <color name="TEXT_GRAY">#999999</color>
+    <color name="TEXT_SUM">#1d953f</color>
+    <color name="TABLE_HEAD_TEXT">#281f1d</color>
+    <color name="TABLE_OTHER_TEXT">#2f271d</color>
+    
+    <color name="PAGE_INFO_BG">#cde6c7</color>
+    
+    <color name="DRAWER_BG">#f2eada</color>
+    
+    <color name="transparent">#00FFFFFF</color>
+</resources>

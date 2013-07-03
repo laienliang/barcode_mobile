@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <string name="service_url_test">http://10.16.11.107/iscm/zdzg/</string>-->
+    <string name="service_url_test">http://192.168.43.110:9080/barcode/</string>
+<!--    <string name="service_url_test">http://192.168.104.61:9080/barcode/</string>-->
+    <string name="service_url_local_test">http://192.168.1.113:8080/iscm/zdzg/</string>
+    <string name="service_url_pro">http://iscm.gdtel.com/iscm/zdzg/</string>
+    <string name="service_url_test_2">http://192.168.1.114:8088/springDay5-ssh-2/</string>
+    
+    <string name="service_login">mobile/login!mobileDoLogin.action</string>
+    <string name="service_action">mobile_</string>
+    
+    <string name="service_method_getJxsBySession">getJxsBySession.html</string>
+</resources>
